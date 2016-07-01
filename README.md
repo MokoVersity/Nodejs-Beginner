@@ -23,7 +23,7 @@ Moko365 定時舉辦完整的 Node.js 教育訓練課程，想接受完整課程
 2. 工具介紹
 3. 開始寫 NodeJS 程式
 
-這裡有一門 [Node.js 入門與準備工作](https://www.mokoversity.com/course/html5/nodejs-overview) 免費線上課程可供參考。
+這裡有一門 [Node.js 入門與準備工作](https://www.mokoversity.com/course/Nodejs/nodejs-overview) 免費線上課程可供參考。
 
 ### 進度規劃
 
