@@ -6,7 +6,7 @@ Node.js 是 JavaScript 的執行環境，只要會 JavaScript 程式語言，就
 * 建立基本的 Web Service 領域知識，能開始撰寫 Web Service 服務（REST API）
 * 建立基本的 NoSQL 領域知識，能開始撰寫 NoSQL 資料庫存取，並結合 Web Service 的完整 Backend
 
-本課程將在 2016 年暑假陸續上線。只要 3 週的時間，並依照課程規劃的學習進度，就能有效率地入門 Node.js 以及「建立背景知識」。
+本課程將在 2016 年暑假陸續上線。只要 2 週的時間，並依照課程規劃的學習進度，就能有效率地入門 Node.js 以及「建立背景知識」。
 
 Moko365 定時舉辦完整的 Node.js 教育訓練課程，想接受完整課程與上機訓練，歡迎參加 [Node.js 與 Express 開發實戰：雲端 API 與物聯網](https://www.moko365.com/enterprise/ap103-nodejs-express) 教室課程。
 
