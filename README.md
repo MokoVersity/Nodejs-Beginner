@@ -1,5 +1,10 @@
 # NodeJS Getting Started - NodeJS 入門
 
+Node.js 是近年來頗受歡迎的 Application Server 技術，，Node.js 不但是 Web Service (REST API) 的主流技術，現在，它更主導了 IoT 平台開發。
+
+本課程將協助學員建立基本的 Server API 實作觀念，也教導如何使用 Node.js 開發網站技術、 Backend API 與 Express.js 框架，還能學到 Node.js + IoT 開發。
+
+
 ## 課程規劃
 
 課程對象：
