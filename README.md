@@ -1,4 +1,4 @@
-Node.js 是 JavaScript 的執行環境，只要會 JavaScript 程式語言，就能入門 Node.js 程式設式嗎？Node.js 的主流用途是 REST API 開發，這是屬於 Web Service 的應用領域。近一年，各大廠也開始使用 Node.js 開發物聯網平台，或是撰寫物聯網裝置的硬體控制程式，這是屬於 IoT 應用用領域。
+Node.js 是 JavaScript 的執行環境，只要會 JavaScript 程式語言，就能入門 Node.js 程式設計嗎？Node.js 的主流用途是 REST API 開發，這是屬於 Web Service 的應用領域。近一年，各大廠也開始使用 Node.js 開發物聯網平台，或是撰寫物聯網裝置的硬體控制程式，這是屬於 IoT 應用用領域。
 
 此外，Node.js 也能結合重要的雲端與 Big Data 資料庫系統：NoSQL，這則是屬於 NoSQL 的應用領域。從上述說明就能知道，學習 Node.js 的重點，除了 JavaScript 語法外，還需要具備「應用領域」的背景知識。這就是本課程的設計目的：
 
