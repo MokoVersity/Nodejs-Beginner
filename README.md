@@ -25,18 +25,19 @@ Moko365 定時舉辦完整的 Node.js 教育訓練課程，想接受完整課程
 
 這裡有一門 [Node.js 入門與準備工作](https://www.mokoversity.com/course/Nodejs/nodejs-overview) 免費線上課程可供參考。
 
-### 進度規劃
+### 學習目標
 
-* 你將能開始撰寫 Node.js 程式
+* 能開始撰寫 Node.js 程式
 * 學會 REST API 的設計實作
 * 簡單的 Key-value Pairs (JSON) 資料庫實作
 * 使用 jQuery 呼叫 REST API
 * Node.js 檢查與讀取 HTML5 表單
 * 製作簡單的產品展示網頁專案
+* 練習過程中學習基本的 Node.js 觀念
 
 ### 最新訊息
 
-2016.7.10，上線時間調整
-
-* Week1 原訂 7 月 12 日上線，調整為 7 月 11 日上線（提早 1 天）
-* Week2 原訂 7 月 19 日上線，調整為 7 月 20 日上線（延後 1 天）
+* 2016.7.27
+ * 將 HTTP Header、Middleware 與 CORS 合併為一段影片（原為 3 段影片），以便於綜合練習
+ * 新增 Middleware 觀念說明
+ * 新增 Asynchronous (Nonblocking IO) 觀念說明
