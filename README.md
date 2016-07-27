@@ -27,8 +27,12 @@ Moko365 定時舉辦完整的 Node.js 教育訓練課程，想接受完整課程
 
 ### 進度規劃
 
-* Week1 進度預計於 7 月 11 日上線。完成這個階段後，你將能開始撰寫 Node.js 程式，並學會 REST API 的實作，以及資料庫的儲存
-* Week2 進度預計於 7 月 20 日上線。完成這個階段後，你將學會 Node.js 如何與 Web Frontend 的表單互動，並製作一個簡單的產品展示網頁（Products Gallery）
+* 你將能開始撰寫 Node.js 程式
+* 學會 REST API 的設計實作
+* 簡單的 Key-value Pairs (JSON) 資料庫實作
+* 使用 jQuery 呼叫 REST API
+* Node.js 檢查與讀取 HTML5 表單
+* 製作簡單的產品展示網頁專案
 
 ### 最新訊息
 
