@@ -41,3 +41,4 @@ Moko365 定時舉辦完整的 Node.js 教育訓練課程，想接受完整課程
  * 將 HTTP Header、Middleware 與 CORS 合併為一段影片（原為 3 段影片），以便於綜合練習
  * 新增 Middleware 觀念說明
  * 新增 Asynchronous (Nonblocking IO) 觀念說明
+ * 新增影片：使用 EventEmitter 打造良好的流程控制
